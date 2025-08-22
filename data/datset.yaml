@@ -1,0 +1,5 @@
+path: C:/Users/bradr/OneDrive/Documents/GitHub/Car-detection-neural-network/data
+train: train/images
+val: valid/images
+nc: 1
+names: ['car']
